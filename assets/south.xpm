@@ -1,0 +1,16 @@
+/* XPM */
+static char *south[] = {
+"10 8 4 1",
+". c #51292F",
+"b c #AF5B42",
+"i c #F4B26C",
+"s c #F8DFAD",
+"..........",
+".bbbbbbb..",
+".biiibiib.",
+".bissbssb.",
+".bbbbbbbb.",
+".biibiiib.",
+".bbbbbbbb.",
+".........."
+};

@@ -1,0 +1,16 @@
+/* XPM */
+static char *east[] = {
+"12 8 4 1",
+". c #243D32",
+"b c #4C8765",
+"i c #A7CE8B",
+"s c #E4D195",
+"............",
+".bbbbbbbbbb.",
+".biibbiibbi.",
+".biibbiibbi.",
+".bbbbbbbbbb.",
+".bssssssssb.",
+".bbbbbbbbbb.",
+"............"
+};
